@@ -1,3 +1,3 @@
 Output
 
-[op](/ExpenseTrackerOP.jpg)
+![op](/ExpenseTrackerOP.jpg)
