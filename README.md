@@ -1,3 +1,3 @@
 Output
 
-[op](/ExpenseTrackerOP)
+[op](/ExpenseTrackerOP.jpg)
